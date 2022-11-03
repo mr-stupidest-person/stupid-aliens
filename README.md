@@ -1,2 +1,2 @@
-# Space-Shooter-Game-Using-Javascript
-Space Shooter Game Using Javascript
+# Stupid-Aliens
+Stupid-Aliens
